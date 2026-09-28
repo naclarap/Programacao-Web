@@ -1,4 +1,4 @@
-# Demo Django + Tailwind + Docker
+# Demo Django
 
 **Nome:** Ana Clara Pereira Esperança
 
