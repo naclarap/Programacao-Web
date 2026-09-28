@@ -1,7 +1,9 @@
 # Demo Django + Tailwind + Docker
 
 **Nome:** Ana Clara Pereira Esperança
+
 **Curso:** Ciência da Computação — UFOP
+
 **Disciplina:** Programação Web (BCC481)
 
 ## Sobre o projeto
